@@ -3,9 +3,19 @@ The "Retail Data Analysis" is a comprehensive and automated **Retail Sales Analy
 1. Amazon Web Services (AWS):
    
 Created an AWS S3 bucket and uploaded raw files securely. Implemented roles and policies for secure access and user-specific operations.
-2. 
-3. 
-4. 
+2. Snowflake (SQL):
+Established table creation and storage integration with AWS.
+Connected AWS S3 to Snowflake for continuous data upload tracking. Set up a snowpipe to ingest files and copy data into existing tables.
+
+3. Jupyter Notebook (Python):
+Established a connection between Snowflake and Jupyter Notebook.
+Conducted Exploratory Data Analysis (EDA), including data cleaning and analysis. Stored cleaned data back into Snowflake using the snowflake-python package.
+scdc
+
+4. Jupyter Lab (Python):
+   
+6. 
+7. 
    
 This dataset contains household-level transactions over two years from a group of 2,500 households who are frequent shoppers at a retailer. It contains all of each household’s purchases, not just those from a limited number of categories.
 
