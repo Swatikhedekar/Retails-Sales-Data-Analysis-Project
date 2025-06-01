@@ -1,5 +1,5 @@
 # Retail Sales-Data-Analysis-Project
-The "Retail Data Analysis" is a comprehensive and automated **Retail Sales Analysis Project** that utilizes various technologies and tools to provide valuable insights into customer buying patterns and seasonal trends. The project involves six major steps:
+The **Retail Sales Analysis Project** is a comprehensive and automated Project that utilizes various technologies and tools to provide valuable insights into customer buying patterns and seasonal trends. The project involves six major steps:
 ### 1. Amazon Web Services (AWS):
    
    Created an AWS S3 bucket and uploaded raw files securely. Implemented roles and policies for secure access and user-specific operations.
